@@ -4,9 +4,9 @@ Tasks
 
 Create an app
 
-1. The first step is to create a new Python script. Let's call it uber_pickups.py.
+1. The first step is to create a new Python script - app.py.
 
-2. Open uber_pickups.py in your favorite IDE or text editor, then add these lines:
+2. Open app.py in your favorite IDE or text editor, then add these lines:
 
 import streamlit as st
 import pandas as pd
